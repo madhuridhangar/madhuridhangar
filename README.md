@@ -13,9 +13,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about Web Development
-- 📫 How to reach me:
-
-    <a href="https://www.linkedin.com/in/dhangar-madhuri"><img height="30" src="https://github.com/madhuridhangar/madhuridhangar/blob/main/linkedin.png"></a>&nbsp;&nbsp;
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/dhangar-madhuri"><img height="30" src="https://github.com/madhuridhangar/madhuridhangar/blob/main/linkedin.png"></a>&nbsp;&nbsp;
     <a href="madhuridhangar11@gmail.com"><img height="30" src="https://github.com/madhuridhangar/madhuridhangar/blob/main/gmail.png"></a>&nbsp;&nbsp;
 
 - 😄 Pronouns: Madhuri

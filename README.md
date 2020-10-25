@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about Web Development
 - 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/dhangar-madhuri"><img height="30" src="https://github.com/madhuridhangar/madhuridhangar/blob/main/octacat.gif"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dhangar-madhuri"><img height="30" src="https://github.com/madhuridhangar/madhuridhangar/blob/main/linkedin.png"></a>&nbsp;&nbsp;
 <a href="madhuridhangar11@gmail.com"><img height="30" src="https://github.com/madhuridhangar/madhuridhangar/blob/main/gmail.png"></a>&nbsp;&nbsp;
 
 - 😄 Pronouns: Madhuri

@@ -1,6 +1,6 @@
 ![Madhuri Dhangar header](https://github.com/madhuridhangar/madhuridhangar/blob/main/octacat.gif)
 
-![Badge](https://img.shields.io/github/watchers/madhuridhangar/madhuridhangar?label=Profile-views&style=social)
+![](https://komarev.com/ghpvc/?username=madhuridhangar&color=yellow)
 ### Hey, folks! <img src="https://github.com/madhuridhangar/madhuridhangar/blob/main/wave.gif" width="30px">
 
 <!--

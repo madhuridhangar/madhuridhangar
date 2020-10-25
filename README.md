@@ -1,4 +1,4 @@
-![!Madhuri Dhangar header](https://raw.githubusercontent.com/madhuridhangar/madhuridhangar/master/octacat.gif)
+![Madhuri Dhangar header](https://raw.githubusercontent.com/madhuridhangar/madhuridhangar/master/octacat.gif)
 
 ![Badge](https://img.shields.io/github/watchers/madhuridhangar/madhuridhangar?label=Profile-views&style=social)
 ### Hey, folks! <img src="https://raw.githubusercontent.com/madhuridhangar/madhuridhangar/master/wave.gif" width="30px">

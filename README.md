@@ -1,4 +1,4 @@
-![Madhuri Dhangar header](https://github.com/madhuridhangar/madhuridhangar/blob/main/octocat.gif)
+![Madhuri Dhangar header](https://github.com/madhuridhangar/madhuridhangar/blob/main/Gif.gif)
 
 ![](https://komarev.com/ghpvc/?username=madhuridhangar&color=yellow)
 ### Hey, folks! <img src="https://github.com/madhuridhangar/madhuridhangar/blob/main/wave.gif" width="30px">

@@ -8,11 +8,11 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Data Structure Skills
+- 🔭 I’m currently working on Machine learning
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with ReactJS
-- 💬 Ask me about Web Development
+- 🤔 I’m looking for help with Artificial intelligence and Machine learning
+- 💬 Ask me about Data modelling
 - 📫 How to reach me:   <a href="https://www.linkedin.com/in/madhuri-dhangar"><img height="30" src="https://github.com/madhuridhangar/madhuridhangar/blob/main/linkedin.png"></a>&nbsp;&nbsp;
       <a href= "mailto:madhuridhangar11@gmail.com"> <img height="30" src="https://github.com/madhuridhangar/madhuridhangar/blob/main/gmail.png"></a>&nbsp;&nbsp;
 

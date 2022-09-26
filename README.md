@@ -19,6 +19,6 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: Madhuri
 - ⚡ Fun fact: Silly mistakes.
 
--😉 Check it: https://netflixclonemadhuri.netlify.app/
+- 😉 Check it: https://netflixclonemadhuri.netlify.app/
 <br>
 https://madhuridhangar.github.io/spatio_temporal_analysis/

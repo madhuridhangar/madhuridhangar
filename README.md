@@ -63,7 +63,8 @@
 ## 🏆 Featured Projects
 
 ### 🌾 CG Paddy Online — Live Government Portal
-> ** https://madhuridhangar.github.io/paddy-dashboard-demo/** | ASP.NET · C# · MS SQL Server · Leaflet.js · Chart.js
+
+> **[View on GitHub →](https://madhuridhangar.github.io/paddy-dashboard-demo/)** | ASP.NET · C# · MS SQL Server · Leaflet.js · Chart.js
 
 Production-grade procurement analytics platform for **Chhattisgarh MARKFED, KMS 2025-26**
 

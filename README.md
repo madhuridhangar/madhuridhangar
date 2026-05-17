@@ -17,7 +17,7 @@
 🏛️ **Software Developer** at Chhattisgarh MARKFED HQ through **NICSI (National Informatics Centre)**  
 🎓 **MCA Graduate** — Pt. Ravishankar Shukla University, Raipur  
 🌾 **Agri-Procurement Domain Expert** — 3+ years building & operating government procurement systems  
-📍 Based in **Bilaspur, Chhattisgarh, India**
+📍 Based in **Raipur, Chhattisgarh, India**
 
 > I don't just write code — I understand the **complete paddy procurement lifecycle** from farmer registration to buyer delivery, having worked hands-on in storage center operations, post-auction buyer management, delivery order issuance, and procurement analytics.
 

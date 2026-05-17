@@ -89,7 +89,7 @@ Production-grade procurement analytics platform for **Chhattisgarh MARKFED, KMS 
 > React · Redux · Material UI · Alan AI
 
 - Voice assistant, dark mode, user auth, watchlist & favorites
-- **[View on GitHub →](https://github.com/madhuridhangar/NetflixClone)**
+
 
 ***
 

@@ -1,4 +1,4 @@
-  ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
+![](https://komarev.com/ghpvc/?username=madhuridhangar&color=yellow)
 ## Hi, I'm Madhuri Dhangar 👋
 
 <div align="center">

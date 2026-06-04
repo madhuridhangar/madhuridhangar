@@ -1,4 +1,5 @@
-# Hi, I'm Madhuri Dhangar 👋
+  ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
+## Hi, I'm Madhuri Dhangar 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Agri-Procurement+Domain+Expert+%F0%9F%8C%BE;ASP.NET+%7C+React+%7C+SQL+Server+%7C+Python;Building+Real+Government+Systems+%F0%9F%8F%9B%EF%B8%8F" alt="Typing SVG" />
